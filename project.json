@@ -1,0 +1,22 @@
+{
+ "name": "demo-wails",
+ "description": "Enter your project description",
+ "author": {
+  "name": "misitebao",
+  "email": "yingjian.bao@cpucloud.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "demowail",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": "",
+ "LdFlags": ""
+}
