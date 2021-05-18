@@ -3,10 +3,10 @@
  "description": "Enter your project description",
  "author": {
   "name": "misitebao",
-  "email": "yingjian.bao@cpucloud.com"
+  "email": "i@misitebao.com"
  },
  "version": "0.1.0",
- "binaryname": "demowail",
+ "binaryname": "demoWails",
  "frontend": {
   "dir": "frontend",
   "install": "npm install",
@@ -14,9 +14,12 @@
   "bridge": "src",
   "serve": "npm run serve"
  },
+ "tags": "",
  "WailsVersion": "",
  "CrossCompile": false,
  "Platform": "",
  "Architecture": "",
- "LdFlags": ""
+ "LdFlags": "",
+ "GoPath": "",
+ "UseFirebug": false
 }
